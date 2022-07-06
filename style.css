@@ -15,17 +15,12 @@
         text-align: center;
 }
 @media (max-width: 596px){
-.card{
- 
-      
+.card{   
     height: 1000px;
     padding: 0;
     margin: 0;
     max-width: 100%; 
  align-items: center;
-
-   
-
 }
 }
 
@@ -41,8 +36,6 @@
 @media (max-width: 596px){
     .wrapper__card{
     flex-direction: column;
-    
-    
      }
     }
   
@@ -52,11 +45,8 @@
 }
 @media (max-width: 596px){
     .card__left{
-   
     margin: auto;
-    
    }
-   
     }
 .card__title{
     margin-bottom: 10px;
@@ -69,9 +59,7 @@
     .card__title{
    text-align: center; 
 padding-right: 69px;
- padding-bottom: 20px;
-    
-    
+ padding-bottom: 20px; 
    }
    
     }
@@ -114,8 +102,7 @@ margin-left: 30px;
    margin-bottom: 25px;
     padding: 30px;
     width: 360px;
-   }
-   
+    }
     }
 .desc__span{
     opacity: 0.7;
@@ -134,7 +121,6 @@ width: 350px;
 height: 430px;
    align-items: center;
    }
-  
     }
 .card__inp{
     width: 340px;
