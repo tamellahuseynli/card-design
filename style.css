@@ -128,14 +128,7 @@ height: 430px;
     margin-left: 30px;
     padding: 10px; 
 }
-@media (max-width: 596px){
-    .card__inp{
-   padding: 20px;
-   border: 1px solid #444;
-   margin-top:30px;
-   margin: auto;
-    }
-}
+
 .card__btn{
     width: 340px;
     margin-top: 15px;
@@ -147,21 +140,6 @@ height: 430px;
     font-size: 14px;
     text-transform: capitalize;
     text-align: center;
-}
-@media (max-width: 596px){
-    .card__btn{padding: 20px;
-margin: auto;
-
-}
-.card__text{
-    margin-bottom: 15px;
-     width: 190px; 
-     line-height: 14px;
-
-}
-.card__text__1{
-    padding-top: 5px;
-}
 }
 .card__text{
     margin-top: 12px;
